@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+.vscode
+
+dist/
+reporters
+node_modules/
+server/node_modules/
+server/package-lock.json
+package-lock.json
+npm-debug.log
+*.log
